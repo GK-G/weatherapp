@@ -1,16 +1,37 @@
-# weatherapp
+# Weather App
 
-A new Flutter project.
+A modern cross-platform weather application built with Flutter that provides real-time weather updates, location-based forecasts, and offline support.
+
+## Features
+
+- 🌦️ Real-time weather data for current location
+- 🔍 Search weather by city name
+- 🌡️ Temperature unit conversion (Celsius/Fahrenheit)
+- 📴 Offline support with cached data
+- 📱 Cross-platform (iOS, Android, Web)
+- 🚨 Error handling and network status monitoring
+- 🎨 Professional blue-themed UI with gradient backgrounds
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (>=3.0.0)
+- Dart SDK (>=2.17.0)
+- Android Studio/Xcode (for mobile development)
+- Android Studio (recommended IDE)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+   cd weather-app
+
+### Structure
+lib/
+├── models/       # Data models
+├── viewmodels/   # Business logic
+├── views/        # UI components
+├── services/     # API and storage services
+
