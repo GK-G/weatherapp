@@ -16,8 +16,8 @@ A modern cross-platform weather application built with Flutter that provides rea
 
 ### Prerequisites
 
-- Flutter SDK (>=3.0.0)
-- Dart SDK (>=2.17.0)
+- Flutter SDK (3.22.1)
+- Dart SDK (3.4.1)
 - Android Studio/Xcode (for mobile development)
 - Android Studio (recommended IDE)
 
@@ -29,9 +29,16 @@ A modern cross-platform weather application built with Flutter that provides rea
    cd weather-app
 
 ### Structure
+
 lib/
 ├── models/       # Data models
 ├── viewmodels/   # Business logic
 ├── views/        # UI components
 ├── services/     # API and storage services
+
+
+
+
+
+
 
