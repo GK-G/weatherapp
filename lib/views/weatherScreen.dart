@@ -1,8 +1,6 @@
-// views/weather_screen.dart (updated UI elements)
 import 'package:flutter/material.dart';
 import 'package:flutter_vector_icons/flutter_vector_icons.dart';
 import 'package:provider/provider.dart';
-
 import '../viewmodels/weatherviewmodel.dart';
 
 class WeatherScreen extends StatelessWidget {

@@ -1,4 +1,3 @@
-// models/weather_model.dart
 class Weather {
   final String city;
   final double temp;

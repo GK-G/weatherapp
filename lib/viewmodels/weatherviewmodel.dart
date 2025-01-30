@@ -1,4 +1,3 @@
-// viewmodels/weather_viewmodel.dart
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import '../models/weathermodel.dart';
